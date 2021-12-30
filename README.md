@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @datapup777
 - 👀 I’m interested in cryptocurrency and collecting and organizing intelligence 
 - 🌱 I’m currently learning Python, Flask, SQL, and Rust
-- 💞️ I’m looking to collaborate with anyone who will pay me lol
+- 💞️ I’m looking to collaborate with anyone
 - 🐤 https://twitter.com/datapup777
 
 <!---
